@@ -2,8 +2,9 @@ using System;
 
 class Programa{
     static void Main(string[] args){
-    Console.WriteLine("teste");
-    Console.ReadLine();
+        int idade = 245234;
+        Console.WriteLine(idade);
+        Console.ReadLine();
     
 }
 
